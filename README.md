@@ -6,8 +6,6 @@ I have used [this](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetabl
 
 Attached is Jupyter notebook with code as well as documentation explaining in detail how to achieve the desired output.
 
-I have also attached the outputs for this particular program.
-
 I followed the following steps to obtain accurate outputs
 
 Steps:
