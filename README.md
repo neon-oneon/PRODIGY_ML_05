@@ -2,7 +2,7 @@ PRODIGY_ML_05
 
 The task for the fifth project of Prodigy Infotech's Machine Learning Internship is to develop a model that can accurately identify a food and print its calories as well.
 
-I have used [this](https://www.kaggle.com/dansbecker/food-101) dataset from Kaggle.
+I have used [this](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition) dataset from Kaggle.
 
 Attached is Jupyter notebook with code as well as documentation explaining in detail how to achieve the desired output.
 
