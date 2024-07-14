@@ -10,7 +10,7 @@ I followed the following steps to obtain accurate outputs
 
 Steps:
 
-> Import necessary libraries such as open cv, mediapipe(for webcam) and pyautogui (for modifying the device volume)
+> Import necessary libraries 
 
 > Import datasets
 
